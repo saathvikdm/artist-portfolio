@@ -3924,6 +3924,10 @@ input, select, textarea {
 	ul.icons li .icon:before {
 		color: #000000;
 	}
+
+	#responsive-icon {
+		color: #fff !important;
+	}
 	
 }
 
