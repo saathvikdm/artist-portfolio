@@ -3925,7 +3925,7 @@ input, select, textarea {
 		color: #000000;
 	}
 
-	#responsive-icon {
+	#responsive-icon:before {
 		color: #fff !important;
 	}
 	
