@@ -3928,6 +3928,10 @@ input, select, textarea {
 	#responsive-icon:before {
 		color: #fff !important;
 	}
+
+	.flex-sm-column {
+		flex-direction: column;
+	}
 	
 }
 
@@ -3948,4 +3952,10 @@ input, select, textarea {
 
 .head-text {
 	font-size: 1.2rem;
+}
+
+.flex-center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
