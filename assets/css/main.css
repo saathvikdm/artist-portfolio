@@ -3427,7 +3427,7 @@ input, select, textarea {
 		}
 
 			#wrapper > section > .content > section > header {
-				width: 32rem;
+				/* width: 32rem; */
 			}
 
 		#wrapper > section.intro > header > * {
@@ -3924,4 +3924,20 @@ input, select, textarea {
 	ul.icons li .icon:before {
 		color: #000000;
 	}
+	
+}
+
+.justify-center {
+	display: flex;
+	align-items: center;
+	/* justify-content: center; */
+}
+
+.flex-row {
+	display: flex;
+	flex-direction: row;
+}
+
+.flex-around {
+	justify-content: space-around;
 }
