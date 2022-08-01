@@ -3945,3 +3945,7 @@ input, select, textarea {
 .flex-around {
 	justify-content: space-around;
 }
+
+.head-text {
+	font-size: 1.2rem;
+}
